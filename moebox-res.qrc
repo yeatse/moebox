@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>i18n/moebox_zh.qm</file>
+    </qresource>
+</RCC>
